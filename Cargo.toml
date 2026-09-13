@@ -1,0 +1,19 @@
+[package]
+name = "ultramonitor"
+version = "0.1.0"
+edition = "2021"
+description = "UltraMonitor - portable hardware monitoring & stress testing utility (Rust)"
+license = "AGPL-3.0"
+
+[dependencies]
+eframe = "0.36"
+egui = "0.36"
+ecolor = "0.36"
+sysinfo = "0.37"
+rfd = "0.17"
+
+[profile.release]
+opt-level = 3
+lto = "thin"
+codegen-units = 1
+strip = true

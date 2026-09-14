@@ -1,6 +1,6 @@
 # UltraMonitor
 
-![Rust](https://img.shields.io/badge/Rust-1.85%2B-orange) ![Build](https://img.shields.io/badge/build-Cargo-green) ![Development status](https://img.shields.io/badge/status-Alpha-red) ![License](https://img.shields.io/badge/License-AGPLv3-blue)
+![Rust](https://img.shields.io/badge/Rust-1.85%2B-orange) ![Build](https://img.shields.io/badge/build-Cargo-green) ![Development status](https://img.shields.io/badge/status-Beta-yellow) ![License](https://img.shields.io/badge/License-AGPLv3-blue)
 
 **A portable desktop utility for monitoring your hardware sensors and stress testing your system.**
 
